@@ -2,7 +2,9 @@
 
 > A collection of Pyrogram plugins made by the community
 
-[Pyrogram Smart Plugins](//docs.pyrogram.ml/resources/SmartPlugins) allow users to create and easily share modular framework's components with minimal boilerplate code. This repository is meant to collect awesome Pyrogram plugins.
+[Pyrogram Smart Plugins](//docs.pyrogram.ml/resources/SmartPlugins) allow users to create and easily share modular framework's components with minimal boilerplate code.
+
+This repository is meant to collect awesome Pyrogram plugins.
 
 ## Use Plugins
 

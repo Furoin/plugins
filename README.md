@@ -21,7 +21,8 @@
 - Understand how [Smart Plugins](//docs.pyrogram.ml/resources/SmartPlugins) work.
 - Create an awesome plugin.
 - Open a new [Pull Request](https://github.com/pyrogram/plugins/compare) to propose your plugin.
-- Make sure you add a proper license and your name to it. Also edit the readme to add the plugin in the list below.
+  - Make sure you add a proper license and your name to it.
+  - Also edit the readme to add the plugin in the list below.
 
 ## Plugins Collection
 

@@ -4,11 +4,20 @@
 
 ## Getting Started
 
-[Pyrogram Plugins](//docs.pyrogram.ml/resources/SmartPlugins) allow users to create modular framwork's components with minimal boilerplate code. This repository is meant to collect awesome Pyrogram plugins.
+[Pyrogram Smart Plugins](//docs.pyrogram.ml/resources/SmartPlugins) allow users to create modular framework's components with minimal boilerplate code. This repository is meant to collect awesome Pyrogram plugins.
 
 ### Use Plugins
 
-bla bla bla
+- Create a new folder in your working directory (e.g.: "plugins").
+- Copy the desired plugin(s) into the "plugins" folder.
+- Enable plugins in your Client with `plugins_dir="plugins"`:
+  ```python
+  from pyrogram import Client
+
+  Client("my_account", plugins_dir="plugins").run()
+  ```
+
+**More details**: [Smart Plugins](//docs.pyrogram.ml/resources/SmartPlugins)
 
 ### Create Plugins
 

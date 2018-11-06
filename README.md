@@ -28,6 +28,6 @@
 
 ## Plugins Collection
 
-Name | Description | Usage
-:--- | :--- | :---
-[**Haste**](plugins/haste) <br> by [delivrance](//github.com/delivrance) | Upload text to hastebin.com and send its link | Reply to a group chat text message with `!haste`
+Name | Description | Usage | License
+:--- | :--- | :--- | :---
+[**Haste**](plugins/haste) <br> by [delivrance](//github.com/delivrance) | Upload text to hastebin.com and send its link | Reply to a group chat text message with `!haste` | MIT

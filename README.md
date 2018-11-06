@@ -30,7 +30,8 @@
 
 ## Improving Plugins
 
-You found a bug on a plugin or want to extend/improve one? That's great! Open a new GitHub [Issue](issues/new) and let's discuss about it.
+You found a bug on a plugin or want to extend/improve one? That's great!  
+Open a new GitHub [Issue](issues/new) and let's discuss about it.
 
 ## Plugins Collection
 

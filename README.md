@@ -6,7 +6,7 @@
 
 [Pyrogram Smart Plugins](//docs.pyrogram.ml/resources/SmartPlugins) allow users to create and easily share modular framework's components with minimal boilerplate code. This repository is meant to collect awesome Pyrogram plugins.
 
-## Use Plugins
+## Using Plugins
 
 - Create a new folder in your working directory (e.g.: *plugins*).
 - [Download](https://github.com/pyrogram/plugins/archive/master.zip) and copy the desired plugin(s) into your *plugins* folder.
@@ -18,7 +18,7 @@
 
 [**More details**](https://docs.pyrogram.ml/resources/SmartPlugins#using-smart-plugins)
 
-## Add Plugins
+## Adding Plugins
 
 - Understand how [Smart Plugins](//docs.pyrogram.ml/resources/SmartPlugins) work.
 - Create an awesome plugin.
@@ -27,6 +27,10 @@
 - Open a new [Pull Request](https://github.com/pyrogram/plugins/compare) to propose your plugin inside the [plugins](plugins) directory.
   - Make sure you add a proper license and your name to it.
   - Also edit the readme to add the plugin in the list below.
+
+## Improving Plugins
+
+You found a bug on a plugin or want to extend/improve one? That's great! Open a new GitHub [Issue](issues/new) and let's discuss about it.
 
 ## Plugins Collection
 

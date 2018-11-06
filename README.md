@@ -2,8 +2,16 @@
 
 > A collection of Pyrogram plugins made by the community
 
-## Plugins
+## Getting Started
+
+[Pyrogram Plugins](//docs.pyrogram.ml/resources/SmartPlugins) allow users to create modular framwork's components with minimal boilerplate code. This repository is meant to collect awesome Pyrogram plugins.
+
+# Use Plugins
+
+# Create Plugins
+
+## Plugins Collection
 
 Name | Description | Usage
 :--- | :--- | :---
-[**Haste**](plugins/haste), by [delivrance](//github.com/delivrance) | Upload text to hastebin.com and send its link | Reply to a group chat text message with `!haste`
+[**Haste**](plugins/haste) <br> by [delivrance](//github.com/delivrance) | Upload text to hastebin.com and send its link | Reply to a group chat text message with `!haste`

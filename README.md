@@ -10,10 +10,9 @@
 - [Download](https://github.com/pyrogram/plugins/archive/master.zip) and copy the desired plugin(s) into your "plugins" folder.
 - Enable plugins in your Client by telling Pyrogram to search on your folder with `plugins_dir="plugins"`:
   ```python
-  from pyrogram import Client
-
-  Client("my_account", plugins_dir="plugins").run()
+  Client("my_account", plugins_dir="plugins")
   ```
+- Done! Run your client with `Client.run()`, the plugins will be automatically loaded.
 
 [**More details**](https://docs.pyrogram.ml/resources/SmartPlugins#using-smart-plugins)
 

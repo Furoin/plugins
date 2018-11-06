@@ -1,10 +1,8 @@
-# Pyrogram Plugins
-
 <img align="right" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/155/electric-plug_1f50c.png">
 
+# Pyrogram Plugins
+
 > A collection of Pyrogram plugins made by the community
-
-
 
 [Pyrogram Smart Plugins](//docs.pyrogram.ml/resources/SmartPlugins) allow users to create and easily share modular framework's components with minimal boilerplate code. This repository is meant to collect awesome Pyrogram plugins.
 

@@ -6,9 +6,13 @@
 
 [Pyrogram Plugins](//docs.pyrogram.ml/resources/SmartPlugins) allow users to create modular framwork's components with minimal boilerplate code. This repository is meant to collect awesome Pyrogram plugins.
 
-# Use Plugins
+### Use Plugins
 
-# Create Plugins
+bla bla bla
+
+### Create Plugins
+
+bla bla bla
 
 ## Plugins Collection
 

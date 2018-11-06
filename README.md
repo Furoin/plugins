@@ -8,8 +8,8 @@
 
 ## Use Plugins
 
-- Create a new folder in your working directory (e.g.: "plugins").
-- [Download](https://github.com/pyrogram/plugins/archive/master.zip) and copy the desired plugin(s) into your "plugins" folder.
+- Create a new folder in your working directory (e.g.: *plugins*).
+- [Download](https://github.com/pyrogram/plugins/archive/master.zip) and copy the desired plugin(s) into your *plugins* folder.
 - Enable plugins in your Client by telling Pyrogram to search on your folder with `plugins_dir="plugins"`:
   ```python
   Client("my_account", plugins_dir="plugins")

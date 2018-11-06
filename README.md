@@ -23,7 +23,7 @@
 - Understand how [Smart Plugins](//docs.pyrogram.ml/resources/SmartPlugins) work.
 - Create an awesome plugin.
   - Make a folder for your plugin and choose a meaningful name.
-  - Create a python file names the same way inside your plugin folder.
+  - Create a python file named the same inside your plugin folder.
 - Open a new [Pull Request](https://github.com/pyrogram/plugins/compare) to propose your plugin inside the [plugins](plugins) directory.
   - Make sure you add a proper license and your name to it.
   - Also edit the readme to add the plugin in the list below.

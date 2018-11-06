@@ -1,4 +1,4 @@
-# Pyrogram Plugins
+# :fire: Pyrogram Plugins
 
 <img align="right" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/155/electric-plug_1f50c.png">
 
